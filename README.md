@@ -1,3 +1,12 @@
+## Start
+1. npm install
+2. src/actions/index.js 
+  change the backend domain to your backend
+3. npm run start
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
